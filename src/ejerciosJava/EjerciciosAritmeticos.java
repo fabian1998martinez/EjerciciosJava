@@ -1,5 +1,5 @@
 package ejerciosJava;
-
+// objeto - una clase 
 public class EjerciciosAritmeticos {
     private int numero1;
     private int numero2;
