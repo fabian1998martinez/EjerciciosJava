@@ -1,3 +1,4 @@
+package clase2;
 /*
  11. crear un programa que dependiendo que numero del día de la semana es, dicho programa te devuelve el dia. 
  ejemplo . 

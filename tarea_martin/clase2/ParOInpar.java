@@ -1,3 +1,4 @@
+package clase2;
 /*1. Calcular si un número es par o impar. */
 
 import java.util.Scanner;

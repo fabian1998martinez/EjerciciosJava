@@ -1,3 +1,4 @@
+package clase2;
 /*8. Crear un script para una sala de juegos infantiles que sirva para que niños mayores de 12 no paguen entrada 
 y menores de 18 si tengan que pagar entrada 
 pero que mayores de  edad no puedan ingresar.  */

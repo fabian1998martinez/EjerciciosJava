@@ -1,3 +1,4 @@
+package clase2;
 /*2. Determinar si un número es positivo, negativo o cero.*/
 
 import java.util.Scanner;
