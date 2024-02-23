@@ -6,8 +6,11 @@ pero que mayores de  edad no puedan ingresar.  */
 import java.util.Scanner;
 
 public class Ejercicio_8 {
-    
 
+    //verbo  camelCase  //hace una sola cosa //  SOLID  
+    public static void sumar(){
+
+    }
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
 
